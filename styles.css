@@ -18,3 +18,8 @@ h1 {
     font-weight: bold;
     border: 1px dotted green;
 }
+
+body {
+    background-image: "https://static.wikia.nocookie.net/napoleondynamite/images/a/a2/Napoleon_dynamite.jpg/revision/latest?cb=20091207010338";
+    background-repeat: no-repeat;
+}
