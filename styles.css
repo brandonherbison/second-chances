@@ -19,6 +19,17 @@ h1 {
     border: 1px dotted green;
 }
 
+img {
+    max-width: 200px;
+    height: auto;
+}
+.info {
+    color: darkolivegreen;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: bolder;
+}
+
 body {
     background-image: "https://static.wikia.nocookie.net/napoleondynamite/images/a/a2/Napoleon_dynamite.jpg/revision/latest?cb=20091207010338";
     background-repeat: no-repeat;
