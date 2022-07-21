@@ -1,3 +1,16 @@
 h1 {
     color: burlywood;
 }
+
+.dog_ipsum {
+    color:yellow;
+    font-weight: bold;
+    border: 1px dotted purple;
+}
+
+.random {
+    color:salmon;
+    font-style: italic;
+    font-weight: bold;
+    border: 1px dotted green;
+}
