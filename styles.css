@@ -31,6 +31,7 @@ img {
 }
 
 body {
-    background-image: "https://static.wikia.nocookie.net/napoleondynamite/images/a/a2/Napoleon_dynamite.jpg/revision/latest?cb=20091207010338";
+    background-image: url(https://upload.wikimedia.org/wikipedia/en/2/27/Bliss_%28Windows_XP%29.png);
     background-repeat: no-repeat;
+    background-size: cover;
 }
