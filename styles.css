@@ -18,3 +18,13 @@ h1 {
     font-weight: bold;
     border: 1px dotted green;
 }
+img {
+    max-width: 200px;
+    height: auto;
+}
+.info {
+    color: darkolivegreen;
+    font-family: Helvetica;
+    font-size: 25px;
+    font-weight: bolder;
+}
