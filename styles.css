@@ -1,7 +1,11 @@
 h1 {
     color: burlywood;
+    font-size: 2em;
+    padding-top: 100px;
+    width: 100%;
+    font-family: Georgia;
+    text-align: center;
 }
-
 .dog_ipsum {
     color:yellow;
     font-weight: bold;
